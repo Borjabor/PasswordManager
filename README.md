@@ -25,4 +25,4 @@ This is a simple password manager application built using Python and Tkinter. It
 
 ## NOTE!! 
 
-This program was for practice purposes only and should not be used to store sensitive information.
+This program was for practice purposes only and should not be used to store sensitive information. The JSON is already populated with some test information
